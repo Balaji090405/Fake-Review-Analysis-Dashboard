@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Dashboard](Images/Page1.png)
+![Fake-Review-Analysis-Dashboard](Images/Page1.png)
