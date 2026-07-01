@@ -1,8 +1,6 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-jupyter
-openpyxl
+Tools & Technologies
+- Power BI
+- Microsoft Excel / CSV
+- SQL
+- DAX
+- Power Query
