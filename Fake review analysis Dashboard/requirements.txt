@@ -1,6 +1,10 @@
-Tools & Technologies
-- Power BI
-- Microsoft Excel / CSV
-- SQL
-- DAX
-- Power Query
+Power BI Desktop
+Microsoft Excel
+Power Query
+DAX
+SQL
+Python (Optional)
+pandas (Optional)
+numpy (Optional)
+scikit-learn (Optional)
+nltk (Optional)
